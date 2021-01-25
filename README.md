@@ -1,3 +1,3 @@
-# CaffeineMachine
+# CoffeeMachine
 
 Simple coffee maker
